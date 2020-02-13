@@ -17,4 +17,5 @@ program revolves around a frequent conversation involving women who are passiona
 that they have never received the opportunity to actually pursue it professionally.
 
 
-
+###From tiffanyhsu03
+When I initially read this article, it reminded me of another article that I read on planningpoker.com. It talks about how QA analysts should also know how to code/develop, as they are waiting for tickets to be assigned to them, at the beginning of a sprint, they technically have "nothing to do". Some manual QA analysts do not know how to code, so if a program like Rosie existed in some companies, it would definitely be less daunting for them to begin how to learn.
